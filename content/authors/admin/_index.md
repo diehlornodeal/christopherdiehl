@@ -1,6 +1,6 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include robotics, automated driving and
+  machine learning.
 interests:
   - Artificial Intelligence
   - Computational Linguistics
