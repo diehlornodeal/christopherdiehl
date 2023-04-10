@@ -6,6 +6,7 @@ type: landing
 
 sections:
   - block: hero
+    active: false
     content:
       title: Hugo Academic Theme
       image:
