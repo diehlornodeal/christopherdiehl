@@ -44,13 +44,13 @@ education:
 superuser: true
 status:
   icon: ☕️
-last_name: Wu
-role: Professor of Artificial Intelligence
+last_name: Christopher
+role: Researcher of Artificial Intelligence
 highlight_name: true
 title: Christopher Diehl
-first_name: Alice
+first_name: Diehl
 email: ""
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-{style="text-align: justify;"}
+Hello World. I'm a researcher and Ph.D. student at TU Dortmund University. My research interests include AI, robotics, and automated driving. I am passionate about discovering new technologies. My research combines ideas from different fields (reinforcement learning, optimal control generative models, and game theory) to achieve scalable, interpretable, and safe autonomy. I further demonstrated my skills working in and together with industry. 
+{style="text-align: justify; WEBSITE"}
