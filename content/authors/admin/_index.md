@@ -52,5 +52,5 @@ first_name: Diehl
 email: ""
 ---
 
-Hello World. I'm a researcher and Ph.D. student at TU Dortmund University. My research interests include AI, robotics, and automated driving. I am passionate about discovering new technologies. My research combines ideas from different fields (reinforcement learning, optimal control generative models, and game theory) to achieve scalable, interpretable, and safe autonomy. I further demonstrated my skills working in and together with industry. 
+> Hello World! I'm a researcher and Ph.D. student at TU Dortmund University. My research interests include AI, robotics, and automated driving. I am passionate about discovering new technologies. My research combines ideas from different fields (reinforcement learning, optimal control generative models, and game theory) to achieve scalable, interpretable, and safe autonomy. I further demonstrated my skills working in and together with industry. 
 {style="text-align: justify; WEBSITE"}
