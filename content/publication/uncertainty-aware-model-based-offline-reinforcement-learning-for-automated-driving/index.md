@@ -3,7 +3,6 @@ title: Uncertainty-Aware Model-Based Offline Reinforcement Learning for
   Automated Driving
 subtitle: ""
 publication_types:
-  - "0"
   - "2"
 authors:
   - Christopher Diehl
@@ -11,7 +10,7 @@ authors:
   - Martin Krüger
   - Frank Hoffmann
   - and Torsten Bertram
-publication: IEEE Robotics and Automation Letters
+publication: "*IEEE Robotics and Automation Letters*"
 publication_short: "2023"
 abstract: Offline reinforcement learning (RL) provides a framework for learning
   decision-making from offline data and therefore constitutes a promising
