@@ -10,7 +10,7 @@ authors:
   - Martin Krüger
   - Frank Hoffmann
   - and Torsten Bertram
-publication: "*IEEE Robotics and Automation Letters*"
+publication: "*IEEE Robotics and Automation Letters (RA-L)*"
 publication_short: ""
 abstract: Offline reinforcement learning (RL) provides a framework for learning
   decision-making from offline data and therefore constitutes a promising
