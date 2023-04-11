@@ -9,8 +9,8 @@ authors:
   - Martin Krüger
   - Frank Hoffmann
   - Torsten Bertram
-publication: Best Paper Award, *Neural Information Processing Systems 34 -
-  Machine Learning for Autonomous Driving Workshop*
+publication: "*Neural Information Processing Systems 34 - Machine Learning for
+  Autonomous Driving Workshop (NeurIPS-ML4AD), **Best Paper Award***"
 draft: false
 featured: false
 image:
