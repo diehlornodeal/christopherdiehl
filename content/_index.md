@@ -28,13 +28,17 @@ sections:
           description: EBM, CVAE, GAN, DDPM 
           icon: palette
           icon_pack: fas
-        - name: Game Theory
-          #description: 10%
-          icon: game-board
-          icon_pack: fad
         - name: Optimal Control
           #description: 10%
           icon: gear
+          icon_pack: fas
+        - name: Game Theory
+          #description: 10%
+          icon: chess
+          icon_pack: fad
+        name: Differentiable Optimization
+          #description: 10%
+          icon: arrow-down-right
           icon_pack: fas
   - block: experience
     content:
