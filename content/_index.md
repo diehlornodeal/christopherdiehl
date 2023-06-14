@@ -24,7 +24,7 @@ sections:
           description: 100%
           icon: chart-line
           icon_pack: fas
-        - name: Photography
+        - name: TEST123
           description: 10%
           icon: camera-retro
           icon_pack: fas
