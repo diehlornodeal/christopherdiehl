@@ -35,10 +35,10 @@ sections:
         - name: Game Theory
           #description: 10%
           icon: chess
-          icon_pack: fad
+          icon_pack: fas
         - name: Differentiable Optimization
           #description: 10%
-          icon: arrow-down-right
+          icon: arrows-left-right
           icon_pack: fas
   - block: experience
     content:
