@@ -16,17 +16,17 @@ sections:
     content:
       title: Skills
       items:
-        - name: R
-          description: 90%
+        - name: Reinforcement Learning
+          #description: 90%
           icon: r-project
           icon_pack: fab
-        - name: Statistics
-          description: 100%
+        - name: Generative Models
+          description: EBM, CVAE, GAN, DDPM 
           icon: chart-line
           icon_pack: fas
-        - name: TEST123
+        - name: Game-Theory
           description: 10%
-          icon: camera-retro
+          icon: Optimal Control
           icon_pack: fas
   - block: experience
     content:
