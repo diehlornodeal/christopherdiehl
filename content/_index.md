@@ -18,8 +18,12 @@ sections:
       items:
         - name: Reinforcement Learning
           #description: 90%
-          icon: brain-circuit
-          icon_pack: fab
+          icon: brain
+          icon_pack: fas
+        - name: Imitation Learning
+          #description: EBM, CVAE, GAN, DDPM 
+          icon: brain
+          icon_pack: fas
         - name: Generative Models
           description: EBM, CVAE, GAN, DDPM 
           icon: palette
@@ -27,7 +31,7 @@ sections:
         - name: Game Theory
           #description: 10%
           icon: game-board
-          icon_pack: fas
+          icon_pack: fad
         - name: Optimal Control
           #description: 10%
           icon: gear
