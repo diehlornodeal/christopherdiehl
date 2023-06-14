@@ -36,7 +36,7 @@ sections:
           #description: 10%
           icon: chess
           icon_pack: fad
-        name: Differentiable Optimization
+        - name: Differentiable Optimization
           #description: 10%
           icon: arrow-down-right
           icon_pack: fas
