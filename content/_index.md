@@ -52,27 +52,32 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Research Scientist
+          company: TU Dortmund University 
           company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          #company_logo: org-gc
+          location: Dortmund
+          date_start: '2019-10-15'
           date_end: ''
           description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+              Robotics Research Institute
+              Research projects together with industry partners (e.g., ZF AI Lab, Forvia)
+        - title: Perception Intern  
+          company: Hella Aglaia Mobile Vision (aquired by Volkswagens CARIAD SE)
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          #company_logo: org-x
+          location: Berlin
+          date_start: '2019-01-01'
+          date_end: '2019-01-07'
+          description: Developed novel multi-modal perception modules for multi-object detection, tracking and mapping.
+        - title: Simulation Intern  
+          company: Bertrandt AG Aglaia Mobile Vision (aquired by Volkswagens CARIAD SE)
+          company_url: ''
+          #company_logo: org-x
+          location: Cologne
+          date_start: '2016-02-01'
+          date_end: '2016-05-31'
+          description: Implemented dontrol strategies for a 5DOF driving simulator
     design:
       columns: '2'
   - block: accomplishments
