@@ -1,6 +1,6 @@
 ---
-bio: My research interests include robotics, automated driving and
-  machine learning.
+avatar_filename: image.jpg
+bio: My research interests include robotics, automated driving and machine learning.
 interests:
   - Artificial Intelligence
   - Robotics
@@ -9,18 +9,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - #icon: twitter
-    #icon_pack: fab
-    #link: https://twitter.com/GeorgeCushen
-    #label: Follow me on Twitter
-    display:
-      header: true
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.de/citations?user=8HsbmCMAAAAJ&hl=de
-  #- icon: github
-  #  icon_pack: fab
-  #  link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
@@ -31,8 +22,6 @@ social:
     label: CV
 organizations:
   - name: TU Dortmund University
-    #url: https://www.stanford.edu/
-    #label: CV
 education:
   courses:
     - course: PhD in Artificial Intelligence
