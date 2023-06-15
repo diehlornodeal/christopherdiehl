@@ -71,7 +71,7 @@ sections:
           date_end: '2019-01-07'
           description: Developed novel multi-modal perception modules for multi-object detection, tracking and mapping.
         - title: Simulation Intern  
-          company: Bertrandt AG Aglaia Mobile Vision (aquired by Volkswagens CARIAD SE)
+          company: Bertrandt AG
           company_url: ''
           #company_logo: org-x
           location: Cologne
