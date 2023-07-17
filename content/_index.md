@@ -60,8 +60,7 @@ sections:
           date_start: '2019-10-15'
           date_end: ''
           description: |2-
-              Robotics Research Institute
-              Research projects together with industry partners (e.g., ZF AI Lab, Forvia)
+              Research projects together with several industry partners (e.g., ZF Group, Forvia) on automated valet-parking and large scale motion forecasting
         - title: Perception Intern  
           company: Hella Aglaia Mobile Vision (aquired by Volkswagens CARIAD SE)
           company_url: ''

@@ -45,5 +45,5 @@ email: ""
 ---
 
 Hello World! 
-I'm a researcher and Ph.D. student at TU Dortmund University. My research interests include AI, robotics, and multi-agent systems, and I develop algorithms for data-driven behavior forecasting and decision-making. In my work, I combine ideas from and draw connections between fields (reinforcement learning, optimal control, generative models, and game theory) to achieve scalable, interpretable, and safe autonomy in multi-agent systems. In addition, I further demonstrated my skills working in and together with industry. 
+I'm a researcher and Ph.D. student at TU Dortmund University. My research interests include AI, robotics, and multi-agent systems, and I develop algorithms for data-driven behavior forecasting and decision-making. In my work, I combine ideas from and draw connections between different fields (reinforcement learning, optimal control, generative models, and game theory) to achieve scalable, interpretable, and safe autonomy in multi-agent systems. In addition, I further demonstrated my skills working in and together with industry. 
 {style="text-align: justify; WEBSITE"}
