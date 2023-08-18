@@ -78,11 +78,11 @@ sections:
           date_start: '2016-02-01'
           date_end: '2016-05-31'
           description: Implemented dontrol strategies for a 5DOF driving simulator
-        - title: TEST  
-          company: Bertrandt AG 
+        - title: Student Researcher  
+          company: TU Dortmund 
           company_url: ''
           #company_logo: org-x
-          location: Cologne
+          location: Dortmund
           date_start: '2016-02-01'
           date_end: '2016-05-31'
           description: Implemented dontrol strategies for a 5DOF driving simulator
