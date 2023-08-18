@@ -60,7 +60,7 @@ sections:
           date_start: '2019-10-15'
           date_end: ''
           description: |2-
-              Robotics Research Institute
+              Robotics Research Institute.
               Joint projects with industry partners (e.g., ZF Group, Hella Forvia) on automated valet-parking and large-scale motion prediction
         - title: Perception Intern  
           company: Hella Aglaia Mobile Vision (aquired by Volkswagens CARIAD SE)
@@ -70,14 +70,6 @@ sections:
           date_start: '2019-01-01'
           date_end: '2019-01-07'
           description: Developed novel multi-modal perception modules for multi-object detection, tracking and mapping.
-        - title: Simulation Intern  
-          company: Bertrandt AG 
-          company_url: ''
-          #company_logo: org-x
-          location: Cologne
-          date_start: '2016-02-01'
-          date_end: '2016-05-31'
-          description: Implemented control strategies for a 5DOF driving simulator
         - title: Student Researcher  
           company: TU Dortmund University  
           company_url: ''
@@ -85,7 +77,7 @@ sections:
           location: Dortmund
           date_start: '2017-04-01'
           date_end: '2018-09-31'
-          description: Projects with ZF Group; Development of interaction-aware motion forecasting and planning algorithms using ML and optimization
+          description: Projects with ZF Group. Development of interaction-aware motion forecasting and planning algorithms using ML and optimization
     design:
       columns: '2'
   - block: accomplishments
