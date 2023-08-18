@@ -70,6 +70,14 @@ sections:
           date_start: '2019-01-01'
           date_end: '2019-01-07'
           description: Developed novel multi-modal perception modules for multi-object detection, tracking and mapping.
+        - title: Student Researcher  
+          company: TU Dortmund University
+          company_url: ''
+          #company_logo: org-x
+          location: Dortmund
+          date_start: '2017-04-01'
+          date_end: '2018-09-31'
+          description: Motion forecasting and planning using ML and optimization (Project with ZF Group)
         - title: Simulation Intern  
           company: Bertrandt AG 
           company_url: ''
@@ -78,14 +86,6 @@ sections:
           date_start: '2016-02-01'
           date_end: '2016-05-31'
           description: Implemented dontrol strategies for a 5DOF driving simulator
-        - title: Student Researcher  
-          company: TU Dortmund University
-          company_url: ''
-          #company_logo: org-x
-          location: Dortmund
-          date_start: '2017-04-01'
-          date_end: '2018-09-31'
-          description: Development of interaction-aware motion forecasting and planning algorithms using ML and optimization (Project with ZF Group)
     design:
       columns: '2'
   - block: accomplishments
