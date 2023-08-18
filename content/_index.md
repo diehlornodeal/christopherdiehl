@@ -12,124 +12,117 @@ sections:
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text:
-  # - block: features
-  #   content:
-  #     title: Skills
-  #     items:
-  #       - name: Reinforcement Learning
-  #         #description: 90%
-  #         icon: brain
-  #         icon_pack: fas
-  #       - name: Imitation Learning
-  #         #description: EBM, CVAE, GAN, DDPM 
-  #         icon: brain
-  #         icon_pack: fas
-  #       - name: Generative Models
-  #         description: EBM, CVAE, GAN, DDPM 
-  #         icon: palette
-  #         icon_pack: fas
-  #       - name: Optimal Control
-  #         #description: 10%
-  #         icon: gear
-  #         icon_pack: fas
-  #       - name: Game Theory
-  #         #description: 10%
-  #         icon: chess
-  #         icon_pack: fas
-  #       - name: Differentiable Optimization
-  #         #description: 10%
-  #         icon: arrows-left-right
-  #         icon_pack: fas
-  # - block: experience
-  #   content:
-  #     title: Experience
-  #     # Date format for experience
-  #     #   Refer to https://wowchemy.com/docs/customization/#date-format
-  #     date_format: Jan 2006
-  #     # Experiences.
-  #     #   Add/remove as many `experience` items below as you like.
-  #     #   Required fields are `title`, `company`, and `date_start`.
-  #     #   Leave `date_end` empty if it's your current employer.
-  #     #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-  #     items:
-  #       - title: Research Scientist
-  #         company: TU Dortmund University 
-  #         company_url: ''
-  #         #company_logo: org-gc
-  #         location: Dortmund
-  #         date_start: '2019-10-15'
-  #         date_end: ''
-  #         description: |2-
-  #             Research projects together with several industry partners (e.g., ZF Group, Forvia) on automated valet-parking and large scale motion forecasting
-  #       - title: Perception Intern  
-  #         company: Hella Aglaia Mobile Vision (aquired by Volkswagens CARIAD SE)
-  #         company_url: ''
-  #         #company_logo: org-x
-  #         location: Berlin
-  #         date_start: '2019-01-01'
-  #         date_end: '2019-01-07'
-  #         description: Developed novel multi-modal perception modules for multi-object detection, tracking and mapping.
-  #       - title: Simulation Intern  
-  #         company: Bertrandt AG
-  #         company_url: ''
-  #         #company_logo: org-x
-  #         location: Cologne
-  #         date_start: '2016-02-01'
-  #         date_end: '2016-05-31'
-  #         description: Implemented control strategies for a 5DOF driving simulator
-  #       - title: Student Assistant  
-  #         company: TU Dortmund University (Joint projects with ZF Group)
-  #         company_url: ''
-  #         #company_logo: org-x
-  #         location: Dortmund
-  #         date_start: '2017-04-01'
-  #         date_end: '2018-09-31'
-  #         description: Development of interaction-aware motion forecasting and decision-making modules for automated vehicles 
-  #   design:
-  #     columns: '2'
-  # - block: accomplishments
-  #   content:
-  #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-  #     title: 'Accomplish&shy;ments'
-  #     subtitle:
-  #     # Date format: https://wowchemy.com/docs/customization/#date-format
-  #     date_format: Jan 2006
-  #     # Accomplishments.
-  #     #   Add/remove as many `item` blocks below as you like.
-  #     #   `title`, `organization`, and `date_start` are the required parameters.
-  #     #   Leave other parameters empty if not required.
-  #     #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-  #     items:
-  #       - certificate_url: https://ml4ad.github.io/2021/
-  #         date_end: ''
-  #         date_start: '2021-12-19'
-  #         description: ''
-  #         organization: Neural Information Processing Systems 2021 -  Workshop Machine Learning for Autonomous Driving
-  #         #organization_url: https://www.coursera.org
-  #         title: Best Paper Award 
-  #         url: ''
-  #       - #certificate_url: https://www.edx.org
-  #         date_end: ''
-  #         date_start: '2022-12-01'
-  #         #description: Formulated informed blockchain models, hypotheses, and use cases.
-  #         organization: Workshop Computational Intelligence
-  #         #organization_url: https://www.edx.org
-  #         title: Youth Author Award 
-  #         #url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  #       # - certificate_url: https://www.datacamp.com
-  #       #   date_end: '2020-12-21'
-  #       #   date_start: '2020-07-01'
-  #       #   description: ''
-  #       #   organization: DataCamp
-  #       #   organization_url: https://www.datacamp.com
-  #       #   title: 'Object-Oriented Programming in R'
-  #       #   url: ''
-  #   design:
-  #     columns: '2'
-  - block: collection
-   id: posts
+  - block: features
     content:
-      title: TEST 123 Posts
+      title: Skills
+      items:
+        - name: Reinforcement Learning
+          #description: 90%
+          icon: brain
+          icon_pack: fas
+        - name: Imitation Learning
+          #description: EBM, CVAE, GAN, DDPM 
+          icon: brain
+          icon_pack: fas
+        - name: Generative Models
+          description: EBM, CVAE, GAN, DDPM 
+          icon: palette
+          icon_pack: fas
+        - name: Optimal Control
+          #description: 10%
+          icon: gear
+          icon_pack: fas
+        - name: Game Theory
+          #description: 10%
+          icon: chess
+          icon_pack: fas
+        - name: Differentiable Optimization
+          #description: 10%
+          icon: arrows-left-right
+          icon_pack: fas
+  - block: experience
+    content:
+      title: Experience
+      # Date format for experience
+      #   Refer to https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: Research Scientist
+          company: TU Dortmund University 
+          company_url: ''
+          #company_logo: org-gc
+          location: Dortmund
+          date_start: '2019-10-15'
+          date_end: ''
+          description: |2-
+              Robotics Research Institute
+              Research projects together with industry partners (e.g., ZF AI Lab, Forvia)
+        - title: Perception Intern  
+          company: Hella Aglaia Mobile Vision (aquired by Volkswagens CARIAD SE)
+          company_url: ''
+          #company_logo: org-x
+          location: Berlin
+          date_start: '2019-01-01'
+          date_end: '2019-01-07'
+          description: Developed novel multi-modal perception modules for multi-object detection, tracking and mapping.
+        - title: Simulation Intern  
+          company: Bertrandt AG 
+          company_url: ''
+          #company_logo: org-x
+          location: Cologne
+          date_start: '2016-02-01'
+          date_end: '2016-05-31'
+          description: Implemented dontrol strategies for a 5DOF driving simulator
+    design:
+      columns: '2'
+  - block: accomplishments
+    content:
+      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+      title: 'Accomplish&shy;ments'
+      subtitle:
+      # Date format: https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Accomplishments.
+      #   Add/remove as many `item` blocks below as you like.
+      #   `title`, `organization`, and `date_start` are the required parameters.
+      #   Leave other parameters empty if not required.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - certificate_url: https://ml4ad.github.io/2021/
+          date_end: ''
+          date_start: '2021-12-19'
+          description: ''
+          organization: Neural Information Processing Systems 2021 -  Workshop Machine Learning for Autonomous Driving
+          #organization_url: https://www.coursera.org
+          title: Best Paper Award 
+          url: ''
+        - #certificate_url: https://www.edx.org
+          date_end: ''
+          date_start: '2022-12-01'
+          #description: Formulated informed blockchain models, hypotheses, and use cases.
+          organization: Workshop Computational Intelligence
+          #organization_url: https://www.edx.org
+          title: Youth Author Award 
+          #url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+        # - certificate_url: https://www.datacamp.com
+        #   date_end: '2020-12-21'
+        #   date_start: '2020-07-01'
+        #   description: ''
+        #   organization: DataCamp
+        #   organization_url: https://www.datacamp.com
+        #   title: 'Object-Oriented Programming in R'
+        #   url: ''
+    design:
+      columns: '2'
+  - block: collection
+    id: posts
+    content:
+      title: Recent Posts
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
@@ -276,3 +269,4 @@ sections:
     design:
       columns: '2'
 ---
+
