@@ -8,8 +8,8 @@ authors:
   - Nils Murzyn
   - Georg Schneider
   - Frank Hoffmann
-  - Torsten Bertram **Best Paper Award**
-publication: Proc. 32. Workshop Computational Intelligence
+  - Torsten Bertra
+publication: "*Proc. 32. Workshop Computational Intelligence. 2022 **Best Paper Award***"
 draft: false
 featured: false
 image:
