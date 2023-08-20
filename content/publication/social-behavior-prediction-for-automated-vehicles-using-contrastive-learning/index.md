@@ -6,7 +6,7 @@ authors:
   - Timo Osterburg
   - Christopher Diehl
   - Torsten Bertram
-publication: IFToMM D‑A‑CH, 2023
+publication: "*IFToMM D‑A‑CH, 2023*"
 draft: false
 featured: false
 image:
