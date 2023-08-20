@@ -117,7 +117,7 @@ sections:
           #url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
         - #certificate_url: https://www.edx.org
           date_end: '2017-10-01'
-          date_start: '2019-09-31'
+          date_start: '2019-09-30'
           organization: WILO Foundation
           #organization_url: https://www.edx.org
           title: German Scholarschip
