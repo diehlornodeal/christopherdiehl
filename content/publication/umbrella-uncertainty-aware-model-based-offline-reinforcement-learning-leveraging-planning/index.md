@@ -12,10 +12,10 @@ authors:
 publication: "*Neural Information Processing Systems 34 - Machine Learning for
   Autonomous Driving Workshop (NeurIPS-ML4AD), **Best Paper Award***"
 draft: false
-featured: false
+featured: true
 image:
   filename: umbrella.PNG
-  focal_point: Smart
+  focal_point: CENTER
   preview_only: false
 date: 2023-04-11T07:48:44.701Z
 ---
