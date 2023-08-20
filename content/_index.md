@@ -89,7 +89,7 @@ sections:
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
+      title: 'Awards'
       subtitle:
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -119,7 +119,6 @@ sections:
           date_end: '2017-10-01'
           date_start: '2019-09-30'
           organization: WILO Foundation
-          #organization_url: https://www.edx.org
           title: German Scholarschip
         # - certificate_url: https://www.datacamp.com
         #   date_end: '2020-12-21'
