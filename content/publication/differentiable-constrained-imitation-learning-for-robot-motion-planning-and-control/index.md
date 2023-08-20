@@ -9,8 +9,8 @@ authors:
   - Martin Krüger
   - Frank Hoffmann
   - Torsten Bertram
-publication: IEEE International Conference on Intelligent Robots and Systems
-  Workshop (IROS), 2023 (Submitted)
+publication: "*IEEE International Conference on Intelligent Robots and Systems
+  Workshop (IROS), 2023 (Submitted)*"
 draft: false
 featured: false
 image:
