@@ -59,7 +59,7 @@ sections:
           date_start: '2019-10-15'
           date_end: ''
           description: |2-
-              Research projects together with industry partners (e.g., ZF AI Lab, Forvia)
+              Research projects together with industry partners (e.g., ZF AI Lab, Forvia) in large-scale motion prediction and model predictive control.
         - title: Perception Intern  
           company: Hella Aglaia Mobile Vision (aquired by Volkswagens CARIAD SE)
           company_url: ''
@@ -75,7 +75,7 @@ sections:
           location: Dortmund
           date_start: '2017-04-01'
           date_end: '2018-09-01'
-          description: Implemented dontrol strategies for a 5DOF driving simulator
+          description: Developed novel motion prediction and planning using ML and optimization (Project with ZF Group)
         - title: Simulation Intern  
           company: Bertrandt AG 
           company_url: ''
