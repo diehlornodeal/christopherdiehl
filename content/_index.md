@@ -75,7 +75,7 @@ sections:
           location: Dortmund
           date_start: '2017-04-01'
           date_end: '2018-09-01'
-          description: Developed novel motion prediction and planning using ML and optimization (Project with ZF Group)
+          description: Developed novel motion prediction and planning using ML and optimization (project with ZF Group)
         - title: Simulation Intern  
           company: Bertrandt AG 
           company_url: ''
