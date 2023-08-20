@@ -52,14 +52,13 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Research Scientist
-          company: TU Dortmund University 
+          company: TU Dortmund University (Robotics Research Institute)
           company_url: ''
           #company_logo: org-gc
           location: Dortmund
           date_start: '2019-10-15'
           date_end: ''
           description: |2-
-              Robotics Research Institute
               Research projects together with industry partners (e.g., ZF AI Lab, Forvia)
         - title: Perception Intern  
           company: Hella Aglaia Mobile Vision (aquired by Volkswagens CARIAD SE)
@@ -67,7 +66,7 @@ sections:
           #company_logo: org-x
           location: Berlin
           date_start: '2019-01-01'
-          date_end: '2019-01-07'
+          date_end: '2019-07-31'
           description: Developed novel multi-modal perception modules for multi-object detection, tracking and mapping.
         - title: Student Researcher  
           company: TU Dortmund University
@@ -75,7 +74,7 @@ sections:
           #company_logo: org-x
           location: Dortmund
           date_start: '2017-04-01'
-          date_end: '2018-09-31'
+          date_end: '2018-09-01'
           description: Implemented dontrol strategies for a 5DOF driving simulator
         - title: Simulation Intern  
           company: Bertrandt AG 
