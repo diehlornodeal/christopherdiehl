@@ -8,7 +8,7 @@ authors:
   - Tamino Waldeyer
   - Frank Hoffmann
   - Torsten Bertram
-publication: Proc. 31. Workshop Computational Intelligence, 2021
+publication: "*Proc. 31. Workshop Computational Intelligence, 2021*"
 draft: false
 featured: false
 image:
