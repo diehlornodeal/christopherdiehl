@@ -8,8 +8,8 @@ authors:
   - Tobias Klosek
   - Martin Krüger
   - Torsten Bertram
-publication: International Conference on Machine Learning (ICML) - New Frontiers
-  in Learning, Control, and Dynamical Systems Workshop, 2023
+publication: "**International Conference on Machine Learning (ICML) - New
+  Frontiers in Learning, Control, and Dynamical Systems Workshop, 2023**"
 draft: false
 featured: true
 image:
