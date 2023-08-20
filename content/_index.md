@@ -22,10 +22,9 @@ sections:
           icon_pack: fas
         - name: Imitation Learning
           #description: EBM, CVAE, GAN, DDPM 
-          icon: brain
+          icon: school
           icon_pack: fas
         - name: Generative Models
-          description: EBM, CVAE, GAN, DDPM 
           icon: palette
           icon_pack: fas
         - name: Optimal Control
@@ -85,7 +84,7 @@ sections:
           location: Cologne
           date_start: '2016-02-01'
           date_end: '2016-05-31'
-          description: Implemented dontrol strategies for a 5DOF driving simulator
+          description: Implemented control strategies for a 5DOF driving simulator
     design:
       columns: '2'
   - block: accomplishments
