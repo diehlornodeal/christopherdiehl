@@ -241,8 +241,7 @@ sections:
         Feel free to leave a message.
       # Contact (add or remove contact options as necessary)
       email: christopher.diehl@tu-dortmund.de
-      phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
+      phone: +49 231 755 90190
       address:
         street: Otto-Hahn-Straße 8
         city: Dortmund
