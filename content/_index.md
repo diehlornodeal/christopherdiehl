@@ -74,8 +74,8 @@ sections:
           company_url: ''
           #company_logo: org-x
           location: Dortmund
-          date_start: '2016-02-01'
-          date_end: '2016-05-31'
+          date_start: '2017-04-01'
+          date_end: '2018-09-31'
           description: Implemented dontrol strategies for a 5DOF driving simulator
         - title: Simulation Intern  
           company: Bertrandt AG 
