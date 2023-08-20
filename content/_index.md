@@ -70,7 +70,7 @@ sections:
           date_end: '2019-01-07'
           description: Developed novel multi-modal perception modules for multi-object detection, tracking and mapping.
         - title: Student Researcher  
-          company: TU Dortmund 
+          company: TU Dortmund University
           company_url: ''
           #company_logo: org-x
           location: Dortmund
