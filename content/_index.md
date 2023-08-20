@@ -70,13 +70,13 @@ sections:
           date_end: '2019-01-07'
           description: Developed novel multi-modal perception modules for multi-object detection, tracking and mapping.
         - title: Student Researcher  
-          company: TU Dortmund University
+          company: TU Dortmund 
           company_url: ''
           #company_logo: org-x
           location: Dortmund
-          date_start: 2016-02-01'
+          date_start: '2016-02-01'
           date_end: '2016-05-31'
-          description: Implemented control strategies for a 5DOF driving simulator
+          description: Implemented dontrol strategies for a 5DOF driving simulator
         - title: Simulation Intern  
           company: Bertrandt AG 
           company_url: ''
