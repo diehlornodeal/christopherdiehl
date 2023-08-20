@@ -1,5 +1,5 @@
 ---
-#avatar_filename: image.jpg
+avatar_filename: bild2.jpg
 bio: My research interests include robotics, automated driving and machine learning.
 interests:
   - Artificial Intelligence
