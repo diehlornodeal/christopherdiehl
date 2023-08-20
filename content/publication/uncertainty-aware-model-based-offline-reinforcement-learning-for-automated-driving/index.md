@@ -11,7 +11,7 @@ authors:
   - Frank Hoffmann
   - Torsten Bertram
 publication: "*IEEE Robotics and Automation Letters (RA-L), International
-  Conference on Intelligent Robots and Systems (IROS), 2023 *"
+  Conference on Intelligent Robots and Systems (IROS), 2023*"
 publication_short: ""
 draft: false
 featured: true
