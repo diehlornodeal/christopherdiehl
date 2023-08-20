@@ -31,7 +31,7 @@ abstract: Offline reinforcement learning (RL) provides a framework for learning
   performance in challenging AD simulations and using a real-world public
   dataset.
 draft: false
-featured: false
+featured: true
 image:
   filename: ral2023.png
   focal_point: Smart

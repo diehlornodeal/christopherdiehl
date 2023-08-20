@@ -14,7 +14,7 @@ publication: "*Neural Information Processing Systems 34 - Machine Learning for
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: umbrella.PNG
   focal_point: Smart
   preview_only: false
 date: 2023-04-11T07:48:44.701Z
