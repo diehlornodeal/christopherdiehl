@@ -9,7 +9,8 @@ authors:
   - Christopher Diehl
   - Timo Osterburg
   - Torsten Bertram
-publication: IEEE Robotics and Automation Letters (RA‑L), 2022
+publication: "*IEEE Robotics and Automation Letters (RA‑L)/ International
+  Conference on Intelligent Robots and Systems (IROS), 2022*"
 draft: false
 featured: false
 image:
