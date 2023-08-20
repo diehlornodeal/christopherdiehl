@@ -9,7 +9,7 @@ authors:
   - Artemi Makarow
   - Christoph Rösmann
   - Torsten Bertram
-publication: IFAC Symposium on Intelligent Autonomous Vehicles (IAV), 2022
+publication: "*IFAC Symposium on Intelligent Autonomous Vehicles (IAV), 2022*"
 draft: false
 featured: false
 image:
