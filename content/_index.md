@@ -116,8 +116,8 @@ sections:
           title: Youth Author Award 
           #url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
         - #certificate_url: https://www.edx.org
-          date_end: '2017-10-01'
-          date_start: '2019-09-30'
+          date_end: '2019-09-30'
+          date_start: '2017-10-01'
           organization: WILO Foundation
           title: German Scholarschip
         # - certificate_url: https://www.datacamp.com
