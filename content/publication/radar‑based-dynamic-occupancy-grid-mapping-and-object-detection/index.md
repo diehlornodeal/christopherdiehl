@@ -16,5 +16,5 @@ image:
   filename: itsc_2020.png
   focal_point: Smart
   preview_only: false
-date: 2023-08-20T14:24:23.494Z
+date: 2020-09-27T14:24:23.494Z
 ---
