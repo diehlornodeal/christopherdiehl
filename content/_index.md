@@ -75,7 +75,7 @@ sections:
           location: Dortmund
           date_start: '2017-04-01'
           date_end: '2018-09-01'
-          description: Developed novel motion prediction and planning using ML and optimization (project with ZF Group)
+          description: Developed novel motion prediction and planning using ML and optimization (project with ZF Group).
         - title: Simulation Intern  
           company: Bertrandt AG 
           company_url: ''
@@ -83,7 +83,7 @@ sections:
           location: Cologne
           date_start: '2016-02-01'
           date_end: '2016-05-31'
-          description: Implemented control strategies for a 5DOF driving simulator
+          description: Implemented control strategies for a 5DOF driving simulator.
     design:
       columns: '2'
   - block: accomplishments
@@ -115,6 +115,12 @@ sections:
           #organization_url: https://www.edx.org
           title: Youth Author Award 
           #url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+        - #certificate_url: https://www.edx.org
+          date_end: '2017-10-01'
+          date_start: '2019-09-31'
+          organization: WILO Foundation
+          #organization_url: https://www.edx.org
+          title: German Scholarschip
         # - certificate_url: https://www.datacamp.com
         #   date_end: '2020-12-21'
         #   date_start: '2020-07-01'
