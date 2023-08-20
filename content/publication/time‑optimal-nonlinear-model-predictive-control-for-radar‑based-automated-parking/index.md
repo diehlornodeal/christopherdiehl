@@ -16,5 +16,5 @@ image:
   filename: ifac2022.jpg
   focal_point: CENTER
   preview_only: false
-date: 2023-08-20T14:03:44.152Z
+date: 2022-07-06T14:03:44.152Z
 ---
