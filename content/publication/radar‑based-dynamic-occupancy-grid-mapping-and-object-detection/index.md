@@ -8,8 +8,8 @@ authors:
   - Alexander Schwambach
   - Thomas Dammeier
   - Eric Mares Torsten Bertram
-publication: IEEE International Conference on Intelligent Transportation Systems
-  (ITSC), 2020
+publication: "*IEEE International Conference on Intelligent Transportation
+  Systems (ITSC), 2020*"
 draft: false
 featured: false
 image:
