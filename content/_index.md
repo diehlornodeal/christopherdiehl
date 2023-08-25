@@ -61,7 +61,7 @@ sections:
           description: |2-
               Research projects together with industry partners (e.g., ZF AI Lab, Forvia) in large-scale motion prediction and model predictive control.
         - title: Perception Intern  
-          company: Hella Aglaia Mobile Vision (aquired by Volkswagens CARIAD SE)
+          company: Hella Aglaia Mobile Vision (acquired by Volkswagen's CARIAD SE)
           company_url: ''
           #company_logo: org-x
           location: Berlin
