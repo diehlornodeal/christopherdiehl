@@ -10,7 +10,7 @@ authors:
   - Frank Hoffmann
   - Torsten Bertram
 publication: "*IEEE International Conference on Intelligent Robots and Systems
-  Agent4AD Workshop (IROS), 2023 (Submitted)*"
+  Agent4AD Workshop (IROS), 2023*"
 draft: false
 featured: false
 image:
