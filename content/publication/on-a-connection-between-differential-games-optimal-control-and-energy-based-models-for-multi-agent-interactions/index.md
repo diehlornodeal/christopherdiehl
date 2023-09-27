@@ -7,6 +7,7 @@ authors:
   - Christopher Diehl
   - Tobias Klosek
   - Martin Krüger
+  - Nils Murzyn
   - Torsten Bertram
 publication: "*International Conference on Machine Learning (ICML) - New
   Frontiers in Learning, Control, and Dynamical Systems Workshop, 2023*"
