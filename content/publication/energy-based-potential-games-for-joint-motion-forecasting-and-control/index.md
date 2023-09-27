@@ -11,7 +11,7 @@ authors:
   - Torsten Bertram
 publication: "*Conference on Robot Learning (CoRL), 2023*"
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart
