@@ -120,6 +120,11 @@ sections:
           date_start: '2017-10-01'
           organization: WILO Foundation
           title: German Scholarschip
+        - #certificate_url: https://www.edx.org
+          date_end: ''
+          date_start: '2019-10-01'
+          organization: TU Dortmund University
+          title: Master Graduation with Distinction
         # - certificate_url: https://www.datacamp.com
         #   date_end: '2020-12-21'
         #   date_start: '2020-07-01'
