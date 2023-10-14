@@ -22,22 +22,22 @@ social:
 #    label: CV
 organizations:
   - name: TU Dortmund University
-education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+#education:
+#  courses:
+#    - course: PhD in Artificial Intelligence
+#      institution: Stanford University
+#      year: 2012
+#    - course: MEng in Artificial Intelligence
+#      institution: Massachusetts Institute of Technology
+#      year: 2009
+#    - course: BSc in Artificial Intelligence
+#      institution: Massachusetts Institute of Technology
+#      year: 2008
 superuser: true
 status:
   icon: ☕️
 last_name: Christopher
-role: Researcher of Artificial Intelligence
+role: Machine Learning and Robotics Researcher
 highlight_name: true
 title: Christopher Diehl
 first_name: Diehl
