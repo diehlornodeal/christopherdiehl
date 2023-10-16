@@ -16,7 +16,7 @@ publication_short: ""
 draft: false
 featured: true
 image:
-  filename: ral2023.png
+  filename: ral_2023.png
   focal_point: Smart
   preview_only: false
 date: 2023-04-11T07:25:53.363Z
