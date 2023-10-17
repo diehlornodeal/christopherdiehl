@@ -51,7 +51,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Research Scientist
+        - title: Researcher
           company: TU Dortmund University (Robotics Research Institute)
           company_url: ''
           #company_logo: org-gc
@@ -59,7 +59,7 @@ sections:
           date_start: '2019-10-15'
           date_end: ''
           description: |2-
-              Research projects together with industry partners (e.g., ZF AI Lab, Forvia) in large-scale motion prediction and model predictive control.
+              Research projects with industry partners (e.g., ZF AI Lab, Forvia) on large-scale ML-based motion prediction/planning and model predictive control.
         - title: Perception Intern  
           company: Hella Aglaia Mobile Vision (acquired by Volkswagen's CARIAD SE)
           company_url: ''
@@ -67,7 +67,7 @@ sections:
           location: Berlin
           date_start: '2019-01-01'
           date_end: '2019-07-31'
-          description: Developed novel multi-modal perception modules for multi-object detection, tracking and mapping.
+          description: Innovated multi-modal perception modules for multi-object detection, tracking and mapping.
         - title: Student Researcher  
           company: TU Dortmund University
           company_url: ''
@@ -75,7 +75,7 @@ sections:
           location: Dortmund
           date_start: '2017-04-01'
           date_end: '2018-09-01'
-          description: Developed novel motion prediction and planning using ML and optimization (project with ZF Group).
+          description: Developed a game-theoretic motion planner (project with ZF Group).
         - title: Simulation Intern  
           company: Bertrandt AG 
           company_url: ''
