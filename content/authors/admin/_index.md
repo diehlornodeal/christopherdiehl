@@ -16,10 +16,10 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
     label: LinkedIn
-#  - icon: cv
-#    icon_pack: ai
-#    link: uploads/resume.pdf
-#    label: CV
+  - icon: cv
+    icon_pack: ai
+    link: uploads/resume.pdf
+    label: CV
 organizations:
   - name: TU Dortmund University
 #education:
@@ -34,8 +34,8 @@ organizations:
 #      institution: Massachusetts Institute of Technology
 #      year: 2008
 superuser: true
-status:
-  icon: ☕️
+# status:
+# icon: ☕️
 last_name: Christopher
 role: Machine Learning and Robotics Researcher
 highlight_name: true
