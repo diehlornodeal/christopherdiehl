@@ -111,7 +111,7 @@ sections:
           date_end: ''
           date_start: '2022-12-01'
           #description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: Workshop Computational Intelligence
+          organization: VDI expert committee 5.14 Computational Intelligence
           #organization_url: https://www.edx.org
           title: Youth Author Award 
           #url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
