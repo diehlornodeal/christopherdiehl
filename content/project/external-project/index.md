@@ -9,5 +9,5 @@ external_link: https://example.org
 image:
   caption: Photo by Toa Heftiba on Unsplash
   focal_point: Smart
-  filename: featured.png
+  filename: ""
 ---
