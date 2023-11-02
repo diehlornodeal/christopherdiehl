@@ -67,7 +67,7 @@ sections:
           location: Berlin
           date_start: '2019-01-01'
           date_end: '2019-07-31'
-          description: Innovated multi-modal perception modules for multi-object detection, tracking and mapping.
+          description: Innovated multi-modal perception modules for multi-object detection, tracking, and mapping.
         - title: Student Researcher  
           company: TU Dortmund University
           company_url: ''
