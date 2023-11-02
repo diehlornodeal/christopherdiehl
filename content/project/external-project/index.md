@@ -9,5 +9,5 @@ external_link: https://example.org
 image:
   caption: Photo by Toa Heftiba on Unsplash
   focal_point: Smart
-  filename: ral_2023_no_bound.png
+  filename: featured.jpg
 ---
