@@ -22,9 +22,7 @@ url_code: ""
 ---
 EXAMPLE TEXT
 
-![](featured.png)
-
-
+![]()
 
 ```
 
