@@ -189,7 +189,7 @@ sections:
   #     view: showcase
   #     # For Showcase view, flip alternate rows?
   #     flip_alt_rows: false
-  # # - block: markdown
+  # - block: markdown
   #   content:
   #     title: Gallery
   #     subtitle: ''
@@ -251,7 +251,7 @@ sections:
         street: Otto-Hahn-Straße 8
         city: Dortmund
         region: NRW
-        postcode: '44227'
+        postcode: '44227 '
         country: Germany
         country_code: DE
       #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
