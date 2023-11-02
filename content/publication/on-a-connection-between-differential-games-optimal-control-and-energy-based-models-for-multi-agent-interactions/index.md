@@ -15,7 +15,7 @@ draft: false
 featured: true
 image:
   filename: icml_2023.png
-  focal_point: CENTER
+  focal_point: Smart
   preview_only: false
 date: 2023-07-28T13:39:19.713Z
 ---
