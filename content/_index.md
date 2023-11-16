@@ -51,7 +51,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Researcher
+        - title: Research Assistant and Doctoral Researcher
           company: TU Dortmund University (Robotics Research Institute)
           company_url: ''
           #company_logo: org-gc
@@ -59,7 +59,7 @@ sections:
           date_start: '2019-10-15'
           date_end: ''
           description: |2-
-              Research projects with industry partners (e.g., ZF AI Lab, Forvia) on large-scale ML-based motion prediction/planning and model predictive control.
+              Research projects with industry partners (e.g., ZF AI Lab, HELLA) on large-scale ML-based motion prediction/planning and model predictive control.
         - title: Perception Intern  
           company: Hella Aglaia Mobile Vision (acquired by Volkswagen's CARIAD SE)
           company_url: ''
