@@ -16,10 +16,10 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
     label: LinkedIn
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
-    label: CV
+#  - icon: cv
+#    icon_pack: ai
+#    link: uploads/resume.pdf
+#    label: CV
 organizations:
   - name: TU Dortmund University
 #education:
