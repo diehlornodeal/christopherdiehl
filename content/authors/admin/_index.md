@@ -14,7 +14,7 @@ social:
     link: https://scholar.google.de/citations?user=8HsbmCMAAAAJ&hl=de
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/christopher-diehl-/
     label: LinkedIn
 #  - icon: cv
 #    icon_pack: ai
