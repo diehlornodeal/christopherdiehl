@@ -45,5 +45,5 @@ email: ""
 ---
 
 Hello World! 
-I'm a researcher and doctoral candidate at TU Dortmund University. My research interests include AI, robotics, and multi-agent systems, and I develop algorithms for data-driven behavior prediction and decision-making. In my work, I love to combine ideas from and draw connections between different fields (reinforcement learning, optimal control, generative models, and game theory) to achieve scalable, interpretable, and safe autonomy in multi-agent systems. In addition, I further demonstrated my skills working in and together with the German autonomous vehicle industry. 
+I'm a researcher and doctoral candidate at TU Dortmund, Germany. My research interests include machine learning, robotics, and multi-agent systems, and I develop algorithms for data-driven behavior prediction and decision-making. In my work, I love to combine ideas from and draw connections between different fields (reinforcement learning, optimal control, generative models, and game theory), which led to publications and presentations in venues such as NeurIPS, ICML, CoRL, RA-L/IROS. In addition, I collaborated with different partners from the German autonomous vehicle industry. 
 {style="text-align: justify; WEBSITE"}
