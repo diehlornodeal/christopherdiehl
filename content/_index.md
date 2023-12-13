@@ -14,7 +14,7 @@ sections:
       text:
   - block: features
     content:
-      title: Skills
+      title: Research Interests
       items:
         - name: Reinforcement Learning
           #description: 90%
