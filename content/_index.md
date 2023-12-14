@@ -59,15 +59,15 @@ sections:
           date_start: '2019-10-15'
           date_end: ''
           description: |2-
-              Research projects with industry partners (e.g., ZF AI Lab, HELLA) on large-scale ML-based motion prediction/planning and model predictive control.
-        - title: Perception Intern  
+              Research on large-scale ML-based behavior prediction and planning.
+        - title: Research Intern  
           company: Hella Aglaia Mobile Vision (acquired by Volkswagen's CARIAD SE)
           company_url: ''
           #company_logo: org-x
           location: Berlin
           date_start: '2019-01-01'
           date_end: '2019-07-31'
-          description: Innovated multi-modal perception modules for multi-object detection, tracking, and mapping.
+          description: Worked on sensor fusion, object detection, tracking, and mapping.
         - title: Student Researcher  
           company: TU Dortmund University
           company_url: ''
