@@ -76,14 +76,22 @@ sections:
           date_start: '2017-04-01'
           date_end: '2018-09-01'
           description: Developed a game-theoretic motion planner (project with ZF Group).
-        - title: Simulation Intern  
+        - title: Software Engineering Intern  
           company: Bertrandt AG 
           company_url: ''
           #company_logo: org-x
           location: Cologne
           date_start: '2016-02-01'
           date_end: '2016-05-31'
-          description: Implemented control strategies for a 5DOF driving simulator.
+          description: Implemented control strategies for autonomous driving simulation.
+        - title: Software Engineering Intern  
+          company: Hewlett-Packard GmbH 
+          company_url: ''
+          #company_logo: org-x
+          location: Dortmund
+          date_start: '2011-01-01'
+          date_end: '2011-02-15'
+          description: Worked on app development for server applications.
     design:
       columns: '2'
   - block: accomplishments
